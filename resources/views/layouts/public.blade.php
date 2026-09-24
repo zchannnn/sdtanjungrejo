@@ -29,7 +29,7 @@
         <div class="max-w-6xl mx-auto px-5 py-8">
             <p class="font-semibold text-white">SD Tanjung Rejo</p>
             <p class="mt-1">Jl. Tanjung Rejo, Medan, Sumatera Utara</p>
-            <p class="mt-1">Telp: (061) 000-0000 &bull; Email: info@sdtanjungrejo.sch.id</p>
+            <p class="mt-1">Telp: (+62) 813-7847-0434 &bull; Email: www.sdtanjungrejo.my.id</p>
             <p class="mt-4 text-xs text-emerald-400">&copy; {{ date('Y') }} SD Tanjung Rejo. Sistem Administrasi Sekolah.</p>
         </div>
     </footer>
