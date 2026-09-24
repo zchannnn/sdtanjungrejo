@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/sdtanjun/public_html/
+    - /bin/cp -R * $DEPLOYPATH
